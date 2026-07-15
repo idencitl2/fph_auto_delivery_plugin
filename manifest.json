@@ -1,0 +1,7 @@
+{
+    "name": "Auto-Delivery & Re-list Workflow",
+    "version": "1.0.0",
+    "description": "Automatically delivers credentials, re-lists the item, and pings the buyer after 6 hours if unconfirmed.",
+    "author": "YourName",
+    "entry_point": "src"
+}

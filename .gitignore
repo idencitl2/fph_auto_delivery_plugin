@@ -1,0 +1,10 @@
+# Ignore local SQLite databases
+*.db
+*.sqlite3
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables / tokens (if you add them later)
+.env
