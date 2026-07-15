@@ -1,7 +1,14 @@
 {
+  "manifest": 1,
+  "plugin_version": "1.0.0",
+  "app_version": ">=0.5.15",
+  "plugin_id": "com.github.idencitl2.auto_delivery_plugin",
   "name": "Auto-Delivery & Re-list Workflow",
-  "version": "1.0.0",
   "description": "Automatically delivers credentials, re-lists the item, and pings the buyer after 6 hours if unconfirmed.",
-  "author": "idencitl2",
-  "entry_point": "src"
+  "description_en": "Automatically delivers credentials, re-lists the item, and pings the buyer after 6 hours if unconfirmed.",
+  "repo": "https://github.com/idencitl2/fph_auto_delivery_plugin",
+  "author": {
+    "name": "idencitl2"
+  },
+  "entry_point": "src.plugin.AutoWorkflowPlugin"
 }
